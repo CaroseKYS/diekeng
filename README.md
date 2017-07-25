@@ -11,3 +11,5 @@
 ## 浏览器兼容类
 
 [iframe问题1：iphone6 plus safari，子页面的宽度不受父页面中iframe大小的限制，当子页面的宽高大于父页面中iframe的宽高时，子页面的内容将全部可见](./cross-browser/iframe1.md)
+
+[iframe问题2：在 IE9 及以下版本的浏览器中，使用frame嵌套子页面的方式访问站点时，站点的cookie不会被发送到服务器端，服务器端设置的cookie无效](./cross-browser/iframe2.md)
