@@ -2,8 +2,13 @@
 
 在我个人的成长过程中，遇到过很多踩坑的经历，在该项目中将这些坑都一一记录下来，以便自己备忘，如果偶尔能有幸帮助同行解答一个疑难问题，也是非常愉快的事情。
 
+## 知识不足类
+[iframe 的 id 和 name 属性](./knowledge/iframe-prop-id-name.md)
+
+
 ## 框架使用类
 [express 对 X-Forwarded-Proto 头部的支持前提是设置 "trust proxy"](./framework/express-x-forwarded-proto.md)
+
 
 ## 工具使用类
 
